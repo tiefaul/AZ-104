@@ -8,7 +8,7 @@
 - Allow a user to manage all resource in a resource group, such as VMs, websites, and subnets  
     <br/>
 
-## Azue RBAC Concepts
+## Azure RBAC Concepts
 
 ![Screenshot 2024-03-26 191518.png](../_resources/Screenshot%202024-03-26%20191518.png)  
 <br/>
