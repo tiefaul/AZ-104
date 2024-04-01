@@ -63,7 +63,7 @@
 	- Selected
 	- All
 - The selected option is useful for creating groups who have SSPR enabled. You can create groups for testing or proof of concept before applying the feature to everyone/large group.
-<br/>
+	<br/>
 - **Consider your authentication methods**:
 	- Your system must require at least one authentication method to reset a password
 	- Options include:
@@ -73,7 +73,7 @@
 		- Security questions
 	- You can requre security questions to be registered for the users in your Entra Tenant
 	- You can also set how many correctly answered security questions are required for password reset
-	<br/>
+		<br/>
 ## Knowledge Check 
 1. What term defines a dedicated and trusted instance of Microsoft Entra ID?
 	- Azure tenant 
