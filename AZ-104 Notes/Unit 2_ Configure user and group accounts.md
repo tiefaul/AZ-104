@@ -1,12 +1,3 @@
----
-title: 'Unit 2: Configure user and group accounts'
-updated: 2024-03-23 15:40:08Z
-created: 2024-03-22 20:21:10Z
-latitude: 36.16266380
-longitude: -86.78160160
-altitude: 0.0000
----
-
 # AZ-104 Notes
 ## Things to know about user accounts
 - Following table describes the user accounts in Entra ID
@@ -24,14 +15,14 @@ altitude: 0.0000
 - **Consider a combination of user accounts**
 	- Use Directory-Sync Identity for users in AD DS
 	- Use Cloud Identities for users defined in your internal Entra structure or for users that are in a external Entra Instance 
-<br>
+		<br/>
 ## Manage User Accounts
 - There are several ways to add clopud identity user accounts in Entra ID:
 	- Azure portal
 	- Microsoft 365 Admin Center
 	- Microsoft Intune admin console
 	- Azure CLI
-<br>
+		<br/>
 ## Things to know about cloud identity accounts
 - A new user account must have a display name and a associated user account name.
 	- **Display name example:**
@@ -42,7 +33,7 @@ altitude: 0.0000
 - The profile can have other settings like a user's job title, and their contact email address.
 - A user with Gloval Admin or User admin priviledges can preset profile data in user accounts, such as the main phone number of the company
 - Non-admin users can set some of their own profile data, but they can't change their display name or account name.
-<br>
+	<br/>
 ## Things to consider when managing cloud identity accounts
 - **Consider user profile data**
 	- this includes the user's picture, job, contact info, supply certain profile settings for each user. ***Allow them to do these things if neccessary***
@@ -50,7 +41,7 @@ altitude: 0.0000
 	- restoring for a deleted account are available up to 30 days after removal
 - **Consider gathered account data**
 	- Collect sign-in and audit log info for user accounts. Entra ID lets you gather this data
-<br>
+		<br/>
 ## Things to know about bulk account operations
 - Entra ID lets you create and delete accounts in bulk
 - Most common approach is to use Azure portal or Azure PowerShell
@@ -62,7 +53,7 @@ altitude: 0.0000
 - Have to fill oout a CSV template of the data for the user accounts
 - Bulk operation templates can be downloaded from the Entra Admin Center
 - Bulk lists of user accounts can be downloaded
-<br>
+	<br/>
 ## Things to consider when creating user accounts
 - **Consider naming conventions**
 	- this can simplify the bulk create/delete process
@@ -70,7 +61,7 @@ altitude: 0.0000
 	- design a system to notify new users about their passwords in a secure way
 - **Consider strategies for minimizing errors**
 	- you can download a results file on the **Bulk Operations Results** page. This contains errors and reasons for them. Might tell you an account has been duplicated, etc.
-<br>
+		<br/>
 ## Creating Group Accounts
 - Two different types of group accounts:
 	- **Security groups:**
@@ -85,7 +76,7 @@ altitude: 0.0000
 - Add Microsoft 365 groups to enable access for guest users outside of the Entra organization
 - Security groups can be implemented only by a Entra admin
 - Normal users and Entra admins can both use Microsoft 365 groups
-<br>
+	<br/>
 ## Things to consider when adding group members
 - There are three different ways you can assign members access rights.
 	- **Assigned:**
@@ -94,7 +85,7 @@ altitude: 0.0000
 		- Use dynamic rules to automatically add and remove group members. When a member's attributes change, Azure reviews the dynamic group rules for the directory. If rule requirements are met, the member is added to the group, if not met then the user/member is removed
 	- **Dynamic Device:**
 		- (Security groups only) Apply dynamic group rules to automatically add and remove devices in security groups. If attributes change, Azure reviews, if rule requirements are met then the device is added to the security group, if not then the device is removed.
-<br>
+			<br/>
 ## Create administrative units
 - Can be useful to restrict admin scope by using admin units 
 - Things to consider:
