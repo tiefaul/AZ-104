@@ -65,7 +65,7 @@
 - Activity log is a subscription log that provides insight into subscription-level events. Can be a range of data from ARM (Azure Resource Manager) operational data to updates on Azure service health events
 - Can help you determine the "what, who, when" for any write operation (PUT, POST, DELETE) performed on a resource
 - Activity logs are kept for 90 days
-<br/>
+      <br/>
 ## Host and Guest data
 - Host data is the physical host on which the VM is running (VMware / HyperV)
 - Guest data is the workloads running on your VM
