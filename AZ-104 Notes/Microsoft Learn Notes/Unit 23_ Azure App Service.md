@@ -5,7 +5,7 @@
 - This brings together everything you need to create websites, mobile backends, and web APIs for any platform or device.
 - Some Azure App Service Benefits:
 
-![Screenshot 2024-04-24 195141.png](../_resources/Screenshot%202024-04-24%20195141.png)  
+![Screenshot 2024-04-24 195141.png](./_resources/Screenshot%202024-04-24%20195141.png)  
 <br/>
 
 ## Post-creation settings

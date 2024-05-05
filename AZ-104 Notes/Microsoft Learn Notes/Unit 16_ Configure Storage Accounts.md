@@ -5,7 +5,7 @@
 	- Unstructured data
 	- Virtual Machine data
 		<br/>
-![Screenshot 2024-04-09 192439.png](../_resources/Screenshot%202024-04-09%20192439.png)
+![Screenshot 2024-04-09 192439.png](./_resources/Screenshot%202024-04-09%20192439.png)
 		<br/>
 - Azure Cosmos, Azure Table Storage, Azure SQL Database = **Structured data**
 - Azure Data Lake Storage and Azure Blob Storage = **Unstructured data**
@@ -39,7 +39,7 @@
 <br/>
 ## Storage Account Types
 
-![Screenshot 2024-04-09 210452.png](../_resources/Screenshot%202024-04-09%20210452.png)
+![Screenshot 2024-04-09 210452.png](./_resources/Screenshot%202024-04-09%20210452.png)
 <br/>
 - All storage account types are encrypted by using Storage Service Encryption (SSE) for data at rest
 <br/>

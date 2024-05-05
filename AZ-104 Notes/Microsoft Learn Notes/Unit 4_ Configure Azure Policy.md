@@ -25,7 +25,7 @@
 
 - Main advantage of Azure Policy are in the areas of enforcement and compliance, scaling, and remediation.
 
-![Screenshot 2024-03-25 103228.png](../_resources/Screenshot%202024-03-25%20103228.png)  
+![Screenshot 2024-03-25 103228.png](./_resources/Screenshot%202024-03-25%20103228.png)  
 <br/>
 
 ## Things to consider when using Azure Policy

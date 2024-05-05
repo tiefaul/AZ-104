@@ -35,7 +35,7 @@
 
 ## Comparing Basic and Standard SKU features
 
-![Screenshot 2024-04-07 161729.png](../_resources/Screenshot%202024-04-07%20161729.png)  
+![Screenshot 2024-04-07 161729.png](./_resources/Screenshot%202024-04-07%20161729.png)  
 <br/>
 
 ## Back-end Pools

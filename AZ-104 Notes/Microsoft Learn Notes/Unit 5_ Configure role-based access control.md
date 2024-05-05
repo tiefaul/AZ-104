@@ -10,7 +10,7 @@
 
 ## Azure RBAC Concepts
 
-![Screenshot 2024-03-26 191518.png](../_resources/Screenshot%202024-03-26%20191518.png)  
+![Screenshot 2024-03-26 191518.png](./_resources/Screenshot%202024-03-26%20191518.png)  
 <br/>
 
 ## Create a role definition
@@ -21,7 +21,7 @@
     - *DataActions* permissions indicate how data can be changed or used
     - *AssignableScopes* permissions list the scopes where a role definition can be assigned
 
-![Screenshot 2024-03-26 200513.png](../_resources/Screenshot%202024-03-26%20200513.png)  
+![Screenshot 2024-03-26 200513.png](./_resources/Screenshot%202024-03-26%20200513.png)  
 <br/>
 
 ## Create a role assignment
@@ -40,7 +40,7 @@
 
 ## Things to consider when assigning scope levels for roles
 
-![Screenshot 2024-03-26 202736.png](../_resources/Screenshot%202024-03-26%20202736.png)
+![Screenshot 2024-03-26 202736.png](./_resources/Screenshot%202024-03-26%20202736.png)
 
 - The diagram shows the following:
     - three security principals are supported: user, group, service principal
@@ -58,14 +58,14 @@
     - Azure RBAC roles
     - Microsoft Entra admin roles
 
-![Screenshot 2024-03-26 203643.png](../_resources/Screenshot%202024-03-26%20203643.png)
+![Screenshot 2024-03-26 203643.png](./_resources/Screenshot%202024-03-26%20203643.png)
 
 - Microsoft Entra Admin roles are defined at the root level of the config, while Azure RBAC roles are defined for a requestor or resource at the root, management groups, subscriptions, resource groups, or resources levels.  
     <br/>
 
 ## Four fundamental Azure RBAC Roles
 
-![Screenshot 2024-03-26 205113.png](../_resources/Screenshot%202024-03-26%20205113.png)
+![Screenshot 2024-03-26 205113.png](./_resources/Screenshot%202024-03-26%20205113.png)
 
 ## Knowledge Check
 

@@ -30,7 +30,7 @@
         - Think of fault domains as nodes that belong to the same rack
         - defines a group of VMs that share a common set of hardware (or switches) that share a single point of failure.
         - 2 fault domains work together to mitigate against hardware failures, network outages, power interruptions, or software updates  
-            <br/><br/>![Screenshot 2024-04-21 115516.png](../_resources/Screenshot%202024-04-21%20115516.png)  
+            <br/><br/>![Screenshot 2024-04-21 115516.png](./_resources/Screenshot%202024-04-21%20115516.png)  
             <br/>
 
 ## Availability Zones

@@ -13,7 +13,7 @@
 - Most regions are paired with another region within the same geography to make a **regional pair**. This helps support always-on availability
 - The following table describes some paired regions:
 
-![Screenshot 2024-03-23 134950.png](../_resources/Screenshot%202024-03-23%20134950.png)
+![Screenshot 2024-03-23 134950.png](./_resources/Screenshot%202024-03-23%20134950.png)
 
 ## Things to consider when using regions and region pairs
 
@@ -57,7 +57,7 @@
 
 ## Ways to obtain an Azure subscription
 
-![Screenshot 2024-03-23 134950.png](../_resources/Screenshot%202024-03-23%20134950-1.png)  
+![Screenshot 2024-03-23 134950.png](./_resources/Screenshot%202024-03-23%20134950-1.png)  
 <br/>
 
 ## Resource Tagging
@@ -76,4 +76,4 @@
 
 - Azure has several options for cost savings. These are the advantages:
 
-![Screenshot 2024-03-23 151036.png](../_resources/Screenshot%202024-03-23%20151036.png)
+![Screenshot 2024-03-23 151036.png](./_resources/Screenshot%202024-03-23%20151036.png)

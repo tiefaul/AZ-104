@@ -3,7 +3,7 @@
 - The following table compares the different features that Azure Files, Blob Storage, and Azure Disks have.
 
 
-![Screenshot 2024-04-17 182018.png](../_resources/Screenshot%202024-04-17%20182018.png)
+![Screenshot 2024-04-17 182018.png](./_resources/Screenshot%202024-04-17%20182018.png)
 <br/>
 ## Types of Azure File Shares
 - There are two types of file shares:

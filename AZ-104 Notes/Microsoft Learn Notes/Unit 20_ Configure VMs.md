@@ -56,4 +56,4 @@
 - **Memory-Optimized** VMs are better for large in-memory business critical workloads that require massive parallel computer power. Good for database servers, medium to large caches and in-memory analytics
 - **Compute-Optimized** VMs are designed to have high CPU-to-memory ratio. Suitable for medium traffic web servers, bath processes, application servers, and **running Network Appliances**
 
-![Screenshot 2024-04-18 194949.png](../_resources/Screenshot%202024-04-18%20194949.png)
+![Screenshot 2024-04-18 194949.png](./_resources/Screenshot%202024-04-18%20194949.png)

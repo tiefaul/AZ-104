@@ -11,7 +11,7 @@
 ## Things to consider when using Azure Vnet peering
 
 
-![Screenshot 2024-04-04 172112.png](../_resources/Screenshot%202024-04-04%20172112.png)
+![Screenshot 2024-04-04 172112.png](./_resources/Screenshot%202024-04-04%20172112.png)
 <br>
 ## Things to know about vreating virtual network peering
 - Your account must be assigned to the Network Contributor or Classic Network Contributor role. 

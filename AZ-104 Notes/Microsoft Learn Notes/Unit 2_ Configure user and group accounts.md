@@ -47,7 +47,7 @@
 - Most common approach is to use Azure portal or Azure PowerShell
 
 
-![Screenshot 2024-03-23 095505.png](../_resources/Screenshot%202024-03-23%20095505.png)
+![Screenshot 2024-03-23 095505.png](./_resources/Screenshot%202024-03-23%20095505.png)
 
 - Only Global admnin or User admins can create or delete accounts 
 - Have to fill oout a CSV template of the data for the user accounts
@@ -70,7 +70,7 @@
 		- provide collab opportunities. group members can have access to shared mailboxes, calendars, files, sharepoint site, etc
 
 
-![Screenshot 2024-03-23 101612.png](../_resources/Screenshot%202024-03-23%20101612.png)
+![Screenshot 2024-03-23 101612.png](./_resources/Screenshot%202024-03-23%20101612.png)
 
 - Use security groups to set permissions for groups, rather than addming permissions to each user
 - Add Microsoft 365 groups to enable access for guest users outside of the Entra organization

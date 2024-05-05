@@ -4,7 +4,7 @@
 
 - Azure network services offer a range of components with functionalities and capabilities, as shown below
 
-![Screenshot 2024-04-01 110314.png](../_resources/Screenshot%202024-04-01%20110314.png)  
+![Screenshot 2024-04-01 110314.png](./_resources/Screenshot%202024-04-01%20110314.png)  
 <br/>
 
 ## Things to know about Azure virtual networks
@@ -30,5 +30,5 @@
 - For each subnet, Azure reserves five IP addresses. The first four addresses and the last address are reserved.
 - Example of the reserved addresses in the IP range of `192.168.1.0/24`
 
-![Screenshot 2024-04-01 112056.png](../_resources/Screenshot%202024-04-01%20112056.png)  
+![Screenshot 2024-04-01 112056.png](./_resources/Screenshot%202024-04-01%20112056.png)  
 <br/>

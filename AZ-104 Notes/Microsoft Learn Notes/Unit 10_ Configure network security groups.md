@@ -22,8 +22,8 @@
     - Inbound Traffic: Azure processes the network security group security rules for any associated subnets and then any associated network interfaces
     - Outbound Traffic: Azure reverses this, checks for network security group security rules for any associated network interfaces and then the associated subnets
     - For both inbound and outbound evaluation process, Azure also check how to apply the rules for intra-subnet traffic  
-        <br/><br/>![Screenshot 2024-04-02 175124.png](../_resources/Screenshot%202024-04-02%20175124.png)  
-        <br/><br/>![Screenshot 2024-04-02 175145.png](../_resources/Screenshot%202024-04-02%20175145.png)  
+        <br/><br/>![Screenshot 2024-04-02 175124.png](./_resources/Screenshot%202024-04-02%20175124.png)  
+        <br/><br/>![Screenshot 2024-04-02 175145.png](./_resources/Screenshot%202024-04-02%20175145.png)  
         <br/>
 
 ## Application Security Groups

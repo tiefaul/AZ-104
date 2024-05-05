@@ -55,7 +55,7 @@
 - Collected data by Azure Monitor are categorized by tiers. Tiers can include data collected for many sources, such as:  
     <br/>
 
-![Screenshot 2024-05-01 184645.png](../_resources/Screenshot%202024-05-01%20184645.png)  
+![Screenshot 2024-05-01 184645.png](./_resources/Screenshot%202024-05-01%20184645.png)  
 <br/>
 
 ## Azure Activity Log

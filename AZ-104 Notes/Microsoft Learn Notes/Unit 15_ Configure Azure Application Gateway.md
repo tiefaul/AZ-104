@@ -4,7 +4,7 @@
 
 - Used by admins to manage requests from clients to their web apps. It listens for incoming traffic to web apps and checks for messages sent via protocols like HTTP.
 
-![Screenshot 2024-04-08 174410.png](../_resources/Screenshot%202024-04-08%20174410.png)
+![Screenshot 2024-04-08 174410.png](./_resources/Screenshot%202024-04-08%20174410.png)
 
 - Clients send requests to your web apps by specifying the IP address or DNS of the application gateway. The gateway then directs the request to a selected web server in your back-end pool according to a set of rules.  
     <br/>

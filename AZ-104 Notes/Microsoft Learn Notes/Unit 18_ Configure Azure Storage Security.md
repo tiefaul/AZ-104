@@ -23,14 +23,14 @@
 	- **IP addresses** - You can identify an IP address or range of IPs from which Azure Storage accepts the SAS. 
 	- **Protocols** - You can specify the protocol over which Azure Storage accepts the SAS
 <br/>
-![Screenshot 2024-04-14 122950.png](../_resources/Screenshot%202024-04-14%20122950.png)
+![Screenshot 2024-04-14 122950.png](./_resources/Screenshot%202024-04-14%20122950.png)
 <br/>
 
 ## Identify URI and SAS parameters 
 - When you create your SAS, a URI is created by using the parameters and tokens. The URI consists of your Azure Storage resource URI and the SAS token
 - `https://myaccount.blob.core.windows.net/?restype=service&comp=properties&sv=2015-04-05&ss=bf&st=2015-04-29T22%3A18%3A26Z&se=2015-04-30T02%3A23%3A26Z&sr=b&sp=rw&sip=168.1.5.60-168.1.5.70&spr=https&sig=F%6GRVAZ5Cdj2Pw4tgU7IlSTkWgn7bUkkAg8P6HESXwmf%4B`
 <br/>
-![Screenshot 2024-04-14 123609.png](../_resources/Screenshot%202024-04-14%20123609.png)
+![Screenshot 2024-04-14 123609.png](./_resources/Screenshot%202024-04-14%20123609.png)
 <br/>
 
 
@@ -47,5 +47,5 @@
 ## Knowledge Check 
 
 
-![Screenshot 2024-04-14 140615.png](../_resources/Screenshot%202024-04-14%20140615.png)
+![Screenshot 2024-04-14 140615.png](./_resources/Screenshot%202024-04-14%20140615.png)
 

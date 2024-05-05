@@ -39,7 +39,7 @@
 - Things to know about the different Editions:
 
 
-![Screenshot 2024-03-22 141351.png](../_resources/Screenshot%202024-03-22%20141351.png)
+![Screenshot 2024-03-22 141351.png](./_resources/Screenshot%202024-03-22%20141351.png)
 
 - **Microsoft Entra ID Free**:
 	- Provides user and group management, on-prem directory synchronization, and basic reports. SSO is supported across Azure, 365, and many popular SaaS apps.

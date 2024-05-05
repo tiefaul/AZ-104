@@ -52,7 +52,7 @@
 
 - In the Azure portal, you select the Azure service for which you want to create the endpoint, it is in a job down menu.
 
-![Screenshot 2024-04-06 143534.png](../_resources/Screenshot%202024-04-06%20143534.png)
+![Screenshot 2024-04-06 143534.png](./_resources/Screenshot%202024-04-06%20143534.png)
 
 ## Azure Private Link
 

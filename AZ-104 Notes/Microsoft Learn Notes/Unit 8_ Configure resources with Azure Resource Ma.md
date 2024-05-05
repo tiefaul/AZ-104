@@ -4,7 +4,7 @@
 
 - Azure Resource Manager templates are written in JSON
 
-![Screenshot 2024-03-30 190922.png](../_resources/Screenshot%202024-03-30%20190922.png)
+![Screenshot 2024-03-30 190922.png](./_resources/Screenshot%202024-03-30%20190922.png)
 
 - $schema - (Required) Location of the JSON template
 - contentVersion - (Required) Version of the template. You can provide any kind of value for this. This is for documentation purposes
@@ -17,7 +17,7 @@
 
 ## Resource Manager template parameters
 
-![Screenshot 2024-03-30 192424.png](../_resources/Screenshot%202024-03-30%20192424.png)
+![Screenshot 2024-03-30 192424.png](./_resources/Screenshot%202024-03-30%20192424.png)
 
 - NOTE: You are limited to 256 parameters in a template. You can reduce the number of parameters by using objects that contain multiple properties  
     <br/>

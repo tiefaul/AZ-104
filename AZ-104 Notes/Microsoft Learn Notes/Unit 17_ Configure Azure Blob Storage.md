@@ -22,7 +22,7 @@
     - Blob storage access tiers
     - Blob lifecycle rules
     - Blob object replication options  
-        <br/><br/>![Screenshot 2024-04-10 204038.png](../_resources/Screenshot%202024-04-10%20204038.png)  
+        <br/><br/>![Screenshot 2024-04-10 204038.png](./_resources/Screenshot%202024-04-10%20204038.png)  
         <br/>
 - You can use Blob Storage to serve images or docs via a browser
 - Can stream audio and video
@@ -67,7 +67,7 @@
         - Optimized for storing large amounts of data that is infrequently accessed. This tier is intended for data that can remain in the tier for at least 90 days.
     - **Archive Tier**:
         - Offline tier that is optimized for data that can tolerate several hours of retrieval latency. Data must remain in the archive tier for at least 180 days or be subject to an early deletion charge. This includes secondary backups, original raw data, and legally required compliance info. THE MOST COST-EFFECTIVE option for storing data. Accessing data is MORE EXPENSIVE in the Archive tier than accessing data in the other tiers.  
-            <br/><br/>![Screenshot 2024-04-10 213738.png](../_resources/Screenshot%202024-04-10%20213738.png)  
+            <br/><br/>![Screenshot 2024-04-10 213738.png](./_resources/Screenshot%202024-04-10%20213738.png)  
             <br/>
 - You can change the blob access tier for your account at any time  
     <br/>
