@@ -3,7 +3,7 @@
 - Following table describes the user accounts in Entra ID
 
 
-![Screenshot 2024-03-23 093411.png](../_resources/Screenshot%202024-03-23%20093411.png)
+![Screenshot 2024-03-23 093411.png](./_resources/Screenshot%202024-03-23%20093411.png)
 
 ## Things to consider when choosing user accounts
 - **Consider where users are defined**
