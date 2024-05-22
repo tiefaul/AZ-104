@@ -3,7 +3,9 @@
 wget -N https://raw.githubusercontent.com/MicrosoftDocs/mslearn-secure-and-isolate-with-nsg-and-service-endpoints/master/cloud-init.yml && \ # (optional) this is a custom file that will force the vm to update and install apache
 az vm create \
     --resource-group <name of rg> \
+		--no-wait \ # This is similar to using "docker compose up -d"  
     --name <name of vm> \
+		--location <location to deploy> \
     --vnet-name <name of vnet you want vm to be in> \ # (optional) if you have a vnet
     --subnet <name of subnet in the vnet you want the vm to be in> \ # (optional) if you have a subnet in the vnet
     --nsg <name of nsg you want the vm to be in> \ (optional) if you have a nsg or use --asg for asg

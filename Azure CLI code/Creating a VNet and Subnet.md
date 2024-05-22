@@ -15,3 +15,13 @@ az network vnet subnet create \
     --address-prefixes 10.0.1.0/24 \
     --name Databases
 ```
+# How to list out VNets
+`az network vnet list --query "[?contains(provisioningState, 'Succeeded')]" --output table`
+# How to associate a subnet with a NSG
+```
+az network vnet subnet update \
+		--vnet-name <name> \
+		--name <subnet name> \
+		--resource-group <rg name> \
+		--network-security-group <NSG name> \
+```
