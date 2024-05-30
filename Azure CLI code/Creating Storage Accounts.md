@@ -2,7 +2,7 @@
 ```
 az storage account create \
                 --resource-group <rg name> \
-								 --access-tier hot \ #(optional)
+		--access-tier hot \ #(optional)
                 --name <name storage account>$RANDOM \ # $RANDOM adds random numbers to the end of the name to make it unique
                 --sku Standard_LRS \
                 --query "name" | tr -d '"' # (optional) This part uses the tr command to delete (i.e., remove) double-quote characters from the output.
