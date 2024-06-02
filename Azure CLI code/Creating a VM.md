@@ -25,7 +25,7 @@ az vm list \
     --query "[*].{Name:name, Provisioned:provisioningState, Power:powerState}" \ # (optional)
     --output table
 ```
-# Creating the variable
+# Creating variable for vm ip
 ```
 APPSERVERIP="$(az vm list-ip-addresses \
                  --resource-group <rg name> \
