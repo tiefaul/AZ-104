@@ -1,0 +1,18 @@
+- Versioning must be enabled for both the source and destination accounts to configure object replication between two storage accounts
+    - Change feed must be enabled for the source account as well
+- Data pinned on a shared dashboard can only be displayed for a maximum of 14 days
+- By default, backups of VMs are kept for 30 days
+- IP Flow Verify can identify when a specific NSG is denying communication between two or more machines
+- You can assign a NSG to the subnet of the VNet in the same region as the NSG
+- To associate a VNet to a private DNS zone, you add the VNet to the zone by creating a virtual network link
+- NICs are connected to a subnet. So you can have a VM that has 2 or more NICs and it can connect to however many subnets you want as long as their are enough NICs to support
+- Azure spot instance allow you to provision VMs at a reduced cost, they can be stopped when there are needs for other pay-as-you-go workloads, or when the price of the spot instance exceeds the maximum price that you set
+- You need to configure a Usage Location for a user when giving a 365 license because not all 365 services are available in all locations
+- A new subnet must be deployed in order to deploy a Azure Bastion Host
+- In order to get diagnostics from an Azure VM, you must create a storage account to store it first.
+- Content Delivery Network (CDN) allows you to reduce the traffic coming into a web server for static, unchanging files, such as images, videos, and PDFs
+- If you want to find out if there is a outbound connection between a Azure VM and an external host, you would use "Connection Monitor"
+- The maximum number of FD and UD (fault domains and update domains) that your apps can be spread across are:
+	- 3 FD and 20 UD
+- A maximum of one SMS message can be sent every 5 minutes in Azure Alerts
+- When applying NSG rules make sure that the subnet has the right configs and the machine that you are trying to connect to has the appropiate nsg rules as well
